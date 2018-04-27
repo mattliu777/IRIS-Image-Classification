@@ -1,5 +1,6 @@
 # Info7390-final
-Image Classification Approaches Based on LGBP Feature Extraction
+Image Classification Approaches Based on LGBP Feature Extraction.
+To classify iris scan images by race (white or asian). 
 # Image pre-processing
 We are using Matlab to get the LGBP features from the images.
 You will need to set up a Matlab enviroment, we are using MATLAB_R2018a.
