@@ -1,5 +1,7 @@
 # Info7390-final
-This project is done by Haofeng Kong and Mingguan Liu
+This project is done by Haofeng Kong and Mingguan Liu.
+
+
 Image Classification Approaches Based on LGBP Feature Extraction.
 To classify iris scan images by race (white or asian). 
 # Image pre-processing
